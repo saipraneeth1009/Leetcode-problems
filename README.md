@@ -18,4 +18,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0046-permutations) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+# Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0046-permutations) |

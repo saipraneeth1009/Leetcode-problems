@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [1205-defanging-an-ip-address](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 # Trie
@@ -58,8 +59,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0502-ipo) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0502-ipo) |
+# Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |

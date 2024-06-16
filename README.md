@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [1205-defanging-an-ip-address](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 # Backtracking
 |  |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [2050-count-good-numbers](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2050-count-good-numbers) |
 # Dynamic Programming

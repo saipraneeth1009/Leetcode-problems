@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1137-height-checker) |
 # Math
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1137-height-checker) |
 # Counting Sort
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0502-ipo) |
 # Heap (Priority Queue)
 |  |

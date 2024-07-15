@@ -83,3 +83,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0402-remove-k-digits) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1415-students-and-examinations) |
+<!---LeetCode Topics End-->

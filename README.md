@@ -91,4 +91,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
 | [1415-students-and-examinations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1415-students-and-examinations) |
+| [1942-primary-department-for-each-employee](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->

@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
+| [1292-immediate-food-delivery-ii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1415-students-and-examinations](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1942-primary-department-for-each-employee](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1942-primary-department-for-each-employee) |

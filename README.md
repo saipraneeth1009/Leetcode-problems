@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |

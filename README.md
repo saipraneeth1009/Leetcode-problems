@@ -141,11 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -173,4 +175,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

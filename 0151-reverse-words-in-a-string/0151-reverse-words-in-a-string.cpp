@@ -1,33 +1,20 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<char> check;
-        string ans;
-        bool exec;
-        for(int i=s.size()-1;i>=0;i--){
-            if(s[i]!=' '){
-                check.push(s[i]);
-            }
-            else{
-                while(!check.empty()){
-                    exec=true;
-                    auto top=check.top();
-                    ans+=top;
-                    check.pop();
-                }
-                if(exec){
-                    ans+=" ";
-                    exec=!exec;
-                } 
+        string temp="";
+        string ans="";
+        for(int i=0;i<s.size();i++){
+            if(s[i]!=' ') temp+=s[i];
+            else if(s[i]==' ' && temp!=""){
+                if(ans!="") ans=temp+" "+ans;
+                else ans=temp;
+                temp="";
             }
         }
-        while(!check.empty()){
-            auto top=check.top();
-            ans+=top;
-            check.pop();
+        if(temp!=""){
+            if(ans!="") ans=temp+" "+ans;
+            else ans=temp;
         }
-
-        if(ans[ans.size()-1]==' ') ans.erase(ans.size()-1,1);
         return ans;
     }
 };

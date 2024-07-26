@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
@@ -165,4 +166,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

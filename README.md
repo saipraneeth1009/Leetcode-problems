@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Tree
@@ -196,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window

@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |

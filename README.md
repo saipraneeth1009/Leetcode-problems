@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,10 +175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
 | ------- |

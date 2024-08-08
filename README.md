@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->

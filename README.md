@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -248,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

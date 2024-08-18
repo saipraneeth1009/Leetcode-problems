@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -253,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

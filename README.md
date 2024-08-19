@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,10 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Sliding Window
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search Tree
 |  |

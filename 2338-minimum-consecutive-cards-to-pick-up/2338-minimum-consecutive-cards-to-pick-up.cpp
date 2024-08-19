@@ -6,12 +6,13 @@ public:
         int right=0,left=0,mini=INT_MAX;
 
         while(right < cards.size()){
-            check[cards[right]]+=1;
-
-            while(check[cards[right]]>1){
+            if(check.find(cards[right])==check.end()){
+                check[cards[right]]=right;
+            }
+            else{
+                left=check[cards[right]];
                 mini=min(mini,right-left+1);
-                check[cards[left]]-=1;
-                left+=1;
+                check[cards[right]]=right;
             }
             right+=1;
         }

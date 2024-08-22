@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Counting
 |  |
 | ------- |

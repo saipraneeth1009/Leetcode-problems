@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1155-product-sales-analysis-iii) |

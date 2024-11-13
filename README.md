@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,11 +199,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |

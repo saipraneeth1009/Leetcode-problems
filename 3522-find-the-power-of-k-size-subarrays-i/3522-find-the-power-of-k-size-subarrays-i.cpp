@@ -9,20 +9,10 @@ public:
         while(right<nums.size()){
 
             while(cur<k){
-            
-            if(check.empty()){
-                check.push_back(nums[right]);
-            }
-
-            else if(check.back()+1 == nums[right]){
-                check.push_back(nums[right]);
-            }
-
-            else{
+            if(!check.empty() && check.back()+1 != nums[right]){
                 check.clear();
-                check.push_back(nums[right]);
             }
-
+            check.push_back(nums[right]);
             cur+=1;
             right+=1;
             }

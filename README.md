@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2580-circular-sentence](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2580-circular-sentence) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |

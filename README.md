@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |

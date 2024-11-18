@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0494-target-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0494-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## String Matching
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |

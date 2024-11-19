@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2777-find-the-distinct-difference-array](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2777-find-the-distinct-difference-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2777-find-the-distinct-difference-array](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2777-find-the-distinct-difference-array) |
 ## Sliding Window
 |  |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search Tree

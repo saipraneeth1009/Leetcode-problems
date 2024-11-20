@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2580-circular-sentence](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3451-string-compression-iii](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Tree
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2777-find-the-distinct-difference-array](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2777-find-the-distinct-difference-array) |
 ## Sliding Window
 |  |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search Tree

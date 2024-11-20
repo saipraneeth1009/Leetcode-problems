@@ -43,7 +43,7 @@ public:
                 j-=1;
             }
             int len=i+s.size()-j;
-            mini=min(mini,len);
+            if(ca>=k && cb>=k && cc>=k) mini=min(mini,len);
         }
         return mini;
 

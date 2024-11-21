@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2777-find-the-distinct-difference-array](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2777-find-the-distinct-difference-array) |
@@ -238,11 +239,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0079-word-search) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/saipraneeth1009/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
